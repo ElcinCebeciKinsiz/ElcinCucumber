@@ -27,6 +27,9 @@ public class QdPage {
     @FindBy(xpath = "//button[@class='btn red radius-5 mt-4 w-100']")
     public WebElement loginPageLoginButton;
 
+    @FindBy(xpath = "//a[@onclick='cookieAccept();']" )
+    public WebElement cookieAcceptBuuton;
+
 
 
 }

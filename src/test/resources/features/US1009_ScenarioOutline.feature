@@ -9,10 +9,10 @@ Feature: US1009 To test more than one data, use Scenario Outline
     Then closes the page
 
     Examples:
-      | Items        |
+      | Items       |
       | Apple       |
       | Math        |
       | Samsung     |
       | Tv          |
       | GPU         |
-      | PowerSupply |
+      | Power Supply |

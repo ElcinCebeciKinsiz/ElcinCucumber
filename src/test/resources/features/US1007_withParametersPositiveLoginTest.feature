@@ -1,3 +1,4 @@
+@p2
 Feature: US1007 PositiveLoginTest
 
   Scenario: TC10 Positive login test with valid username and valid password

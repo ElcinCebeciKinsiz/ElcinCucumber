@@ -1,3 +1,4 @@
+@smoke
 Feature: US 1001 User will search for Nutella in Amazon
 
   Scenario: TC01 User will search for Nutella

@@ -1,3 +1,4 @@
+@US1004 @p1
 Feature: US1004 Using parameters in test steaps
 
   Scenario: TC04 We will create new methods where we can use parameters
